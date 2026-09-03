@@ -1,0 +1,5 @@
+{
+  "did": "did:example:52b39414-10b2-410c-8398-775330815a99",
+  "publicKey": {},
+  "privateKey": "-----BEGIN PRIVATE KEY-----\nMC4CAQAwBQYDK2VwBCIEIAPHPPvtArNtCbAsAICfSNpc6Z9X0sZ4OAL97Kg1Z+Hb\n-----END PRIVATE KEY-----\n"
+}

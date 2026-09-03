@@ -113,6 +113,16 @@ dist
 # FuseBox cache
 .fusebox/
 
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
 # DynamoDB Local files
 .dynamodb/
 
