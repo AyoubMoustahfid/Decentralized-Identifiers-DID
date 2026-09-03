@@ -117,9 +117,9 @@ npm install
 Create `.env`:
 
 ```env
-PORT=3000
-MONGODB_URI=mongodb://localhost:27017/exam-platform
-JWT_SECRET=development-secret
+PORT=8080
+MONGODB_URI="database url"
+JWT_SECRET="development-secret"
 ```
 
 Start the server:
